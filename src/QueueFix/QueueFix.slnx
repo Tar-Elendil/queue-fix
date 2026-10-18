@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="QueueFix.Integration.Tests/QueueFix.Integration.Tests.csproj" />
+  <Project Path="QueueFix.Sample/QueueFix.Sample.csproj" />
+  <Project Path="QueueFix/QueueFix.csproj" />
+</Solution>
