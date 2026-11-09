@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+option csharp_namespace = "QueueFix.Sockets";
+
+message FixMessage {
+  string message = 1;
+} 
